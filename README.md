@@ -1,4 +1,4 @@
-# Preshax
+# Preshax - PROCESO OBSOLETO
 **Modificación de consola 3Ds/2DS**
 
 Preshax es un proceso de modificación de la consola 3Ds que forma parte del proceso Seedminer y toma pasos del proceso USM [https://github.com/zoogie/unSAFE_MODE]. Ambos procesos son del desarrollador Zoogie y todos los agradecimientos son para él y su gran labor. 
